@@ -85,3 +85,4 @@ Thanks for wantline's great design.
 - 2017-11-05 v0.3 Alpha : Bug fix
 - 2017-11-05 v0.2 Alpha : Icon born
 - 2017-11-04 v0.1 Alpha : First release
+
