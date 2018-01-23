@@ -63,8 +63,6 @@ Qt SDK >= 5.9.1
 
 - CMake (>=3.9)
 
-
-
 # Libraries
 
 1. Qt
